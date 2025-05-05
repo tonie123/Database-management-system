@@ -28,8 +28,6 @@ A simple CRUD API built with **FastAPI** (Python) connected to a MySQL database.
 ![Clinic Booking System ERD]![WhatsApp Image 2025-05-05 at 16 45 36_d6f9fe07](https://github.com/user-attachments/assets/320e70ba-136b-45ac-9abb-5c745484ec44)
 
 
-*(Replace the link above with your ERD screenshot or diagram link.)*
-
 ---
 
 ## 🚀 Question 2: Task Manager CRUD API
